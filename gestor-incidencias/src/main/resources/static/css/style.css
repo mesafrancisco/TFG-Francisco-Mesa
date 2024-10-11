@@ -1,0 +1,21 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #739ac2;
+}
+.form-container {
+    max-width: 500px;
+    width: 100%;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid #dee2e6;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.form-header {
+    margin-bottom: 20px;
+    text-align: center;
+}
